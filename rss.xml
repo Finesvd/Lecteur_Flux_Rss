@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?
+<rss version="2.0">
+    <channel>
+        <title>Mon Site</title>
+        <description> Ceci est un tesst de flux rss 2.0 </description>
+        <lastBuildDate>Thu,19 Dec 2020 : 10:0:0 GMT</lastBuildDate>
+        
+        <link>http://www.9gag.com</link>
+        <item>
+            <title>Actualité </title>
+            <description> Ceci est une page d'actualité et de divertissement.</description>
+            <pubDate> Sun,26 Dec 2020 : 11:5:36 GMT</pubDate>
+            <link>http://www.9gag.com/fresh</link>
+        </item>
+    </channel>
+</rss> 
