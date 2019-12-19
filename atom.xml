@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?
+<feed xmlns="https://www.reddit.com/">
+
+    <title>Fil d'exemple </title>
+    <subtile>Un 2e Titre </subtile>
+    <link href="https://www.reddit.com/"/>
+    <updated>2156-03-78 15:56:96</updated>
+    <author>
+    <id>urn:uuid:66489-4545-545-787-azz45-454545</id>
+
+    <entry>
+        <title> Ivre ca tourne mal <title>
+        <link href="https://www.reddit.com/trending"/>
+        <updated>2156-03-78 94:89:96</updated>
+        <summary>I LIKE TRAIN !!!!!! </summary>
+    </entry>
+    
+</feed>
